@@ -11,4 +11,7 @@ mvn install
 ## Run
 * Deploy in an application server
 
-
+## Test
+```
+curl http://localhost:8080/ws-rest-random-value/random/get
+```
